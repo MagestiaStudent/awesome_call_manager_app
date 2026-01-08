@@ -1,4 +1,4 @@
-#📱 My Honest Thoughts on Call Notes Managers Apps
+# My Honest Thoughts on Call Notes Managers Apps 📱
 A curated list of the best call management and application tools to improve phone productivity, by "La Panache Edito".
 
 ## 📂 Android applications - direct access
