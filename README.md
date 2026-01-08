@@ -1,5 +1,6 @@
-# My Honest Thoughts on Call Notes Managers Apps 📱
-A curated list of the best call management mobile application tools to improve phone productivity, by "La Panache Edito".
+<h1 align="center"> My Honest Thoughts on Call Notes Managers App 👋 </h1>
+
+*A curated list of the best call management mobile application tools to improve phone productivity, by "La Panache Edito".  I have been working in small SMEs for over two years in various positions where I have been able to/had to manage calls. I thought that to start my articles, I would be better off talking about something I really know about.*
 
 ## 📂 Android applications - direct access
 #### 🟢 [Paid] MemoCallPro: the best call & contact manager app 
