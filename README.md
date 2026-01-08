@@ -5,10 +5,10 @@ A curated list of the best call management and application tools to improve phon
 #### 🟢 [Paid] MemoCallPro: the best call & contact manager app 
 Rate: 4.5 / 5 –  PRO : 3.2 $ / Month  and a Lite : 4 USD Life + **LifeTime Deal + Free version**  
 
-The settings interface is a bit rough at first, but the call log interface is a breath of fresh air—you get used to it quickly. One of my favorite features is the ability to access it on a computer/deskop or tablet, along with SMS sending and all the features with configuring call hours, ngl for personal use, it's perfect. <br>
+The settings interface is a bit rough at first, but the call log interface is a breath of fresh airyou get used to it quickly. One of my favorite features is the ability to access it on a computer/deskop or tablet, along with SMS sending and all the features with configuring call hours, ngl for personal use, it's perfect. <br>
 For negative tought : It doesn't follow a typical learning curve. In the Pro trial, you get access to dozens of features without clear guidance on which profiles they are for - at least, you had a 30 day free trials to test it out. 
 
-My note ; **MemoCallPro the best alternative** to replace CALL NOTES PRO by Andrey Nikanorov, which is no longer available. **The app is regularly updated and has complete documentation**. While it isn't strictly a CRM, it allows you to manage contacts as if you had no limits on customer records, actions, or custom fields from the very first subscription. It is the best value for money: you can manage databases of 20,000 contacts for the price of two loaves of bread and a coffee per month. *In his free version : you dont have customer record limites and have the overlay.* 
+My note ; **MemoCallPro is the alternative** to replace CALL NOTES PRO by Andrey Nikanorov, which is no longer available. **The app is regularly updated and has complete documentation**. While it isn't strictly a CRM, it allows you to manage contacts as if you had no limits on customer records, actions, or custom fields from the very first subscription. It is the best value for money: you can manage databases of 20,000 contacts for the price of two loaves of bread and a coffee per month. *In his free version : you dont have customer record limites and have the overlay.* 
 
 #### 🟠[Free for now] ISUNG CALL NOTES APP : Beautiful but Unreliable  
 Rate: 2 / 5 <br>
