@@ -1,5 +1,5 @@
 # My Honest Thoughts on Call Notes Managers Apps 📱
-A curated list of the best call management and application tools to improve phone productivity, by "La Panache Edito".
+A curated list of the best call management mobile application tools to improve phone productivity, by "La Panache Edito".
 
 ## 📂 Android applications - direct access
 #### 🟢 [Paid] MemoCallPro: the best call & contact manager app 
@@ -38,6 +38,8 @@ The features are sales-oriented; the interface is aging, but it gets the job don
 #### 🟢 [paid] RUNO: The Beast of SIM-Based CRMs  
 Rate : 4.5 /Pay 10$/mo (annually)  
 Get a powerful sim-based crm app. if your business is growing fast and you want an ai assistant, this is the one. Nothing more to say, it is a really good CRM, data are on cloud like most of CRM.
+
+##  🤝 Open-source Working Packages
 
 ## 🚀 Coming soon?  
 🟣 [unknown] call notes: the google pixel call notes manager?
